@@ -1,0 +1,29 @@
+#c1{
+    font-size: 30px;
+    color:black;
+    text-align: justify;
+}
+#ca1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+   background-image: url('C:\PRACTICAL EXAM WT\DK\myapp\public\Sanjivani.jpg'); 
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+#c2{
+    background-color: white;
+    width:1000px;
+    margin-left:5%;
+    padding: 15px;
+    border-radius: 20px;
+}
+#c3{
+    font-size: 70px;
+    color: white;
+    margin-bottom: 10%;
+    margin-left: 5px;
+}

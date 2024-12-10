@@ -1,0 +1,20 @@
+#nav{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  background-color: #333;
+  color: #fff;
+}
+ul{
+    color:white;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    gap:50px;
+    list-style: none;
+    margin-right: 30px;
+}
+#l1{
+  text-decoration: none;
+  color:white;
+}
